@@ -1,1 +1,2 @@
 He is an Excellent Devops Engineer.
+He has knowledge in GitHub,Jenkins,Docker,Kubernetes etc.
